@@ -1,0 +1,16 @@
+{
+  "name": "practical01-js-frank3549",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Frank Bautista <fbautista@middlebury.edu>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
