@@ -1,3 +1,5 @@
+//Name: Frank Bautista
+
 export const summationFor = (list) => {
     let accumulator = 0;
     for (let i = 0; i < list.length; i++) {
